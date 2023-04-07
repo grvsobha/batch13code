@@ -1,0 +1,133 @@
+DevOps
+=============
+
+1.Source Code Management - SCM - Git (SVN, VCS, CVS, TFS)
+
+Git 
+=====
+install with git tool
+
+git --version
+
+yum install git -y
+git init
+vim log
+
+ec2 -server'- git server
+
+Creation of file
+=========
+git status
+git add
+git commit
+
+Delete the file
+=====================
+
+
+git revert
+==========
+whatever the file you have deleted take back with file we can use the command git revert
+
+Git Reset:
+========
+To review, git reset is a powerful command that is used to undo local changes to the state of a Git repo.
+
+3 types
+=========
+git reset --hard
+git reset --soft
+git reset --mixed
+
+
+
+Multiple env
+===============
+1. dev environment - 
+2.UAT env
+3. Sat env
+4. Pro-prod environment
+5. prod Environment
+
+dev env
+==========
+dev branch - 2 months
+uat env - QA Branch - code
+
+devops
+==========
+git hub
+
+Git Conflict
+===========
+flie5 is availble dev branch
+master
+file5
+conflict
+
+1 yrs - 12
+============
+still 13
+12 - 12
+13 version - devops
+=============
+deployment
+
+Remote Repo
+===========
+Github
+E-mail id
+
+Git Cherry-pick
+=================
+
+1. dev - 10 files - file11
+2. qa files - 10 files
+
+git log --oneline 
+
+git checkout qa
+git cherry-pick commitid(file11)
+
+Invite in Github
+=======
+E-mail id, we can take the employee id
+
+fork
+==============
+
+
+git push
+===========
+you should login
+username
+password - Authntication
+
+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
+
+git remote set-url origin https://yourusername@github.com/user/repo.git
+
+git remote add origin https://github.com/vishunu2111/git15thnov.git
+
+git remote set-url https://github.com/vishunu2111/git15thnov.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
